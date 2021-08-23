@@ -17,7 +17,7 @@ When scaled nodes need
 npm install --save node-ipc-rpc ioredis
 ```
 
-# Create IPC via Redis 
+## Create IPC via Redis 
 
 ```ts
 import Redis from "ioredis"
